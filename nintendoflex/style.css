@@ -192,7 +192,7 @@ scroll-snap-align: center;
     font-size: 6vw;
   }
 
-  @media (max-width: 850px) {
+  @media only screen and (max-width: 1000px) {
 
     .section-a{
       height: 100vh;
